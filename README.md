@@ -1,0 +1,1 @@
+The system dynamics are done with the opening sequence, the closing sequence can be investigated by changing the angles Q1 and Q3. Q1 is the angle of when the system is fully closed and Q3 is the angle when the system is fully deployed. The EOM is done with this in mind, it works both ways.
